@@ -20,7 +20,7 @@ The QNTU token functions as a pledge that community members must “put up” be
 Technical Document
 ======================
 
-Reference: https://github.com/quantaplc/qntu/blob/master/documents/%5BPLC%5D%20QNTU_Tech%20Spec_15%20Mar.docx
+Reference: https://github.com/quantaplc/qntu/blob/master/documents/QNTU_Tech_Spec.docx
 
 
 
