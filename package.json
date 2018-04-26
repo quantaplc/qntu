@@ -1,0 +1,25 @@
+{
+    "name": "qntu",
+    "version": "1.0.0",
+    "description": "",
+    "scripts": {
+        "publish-qntu": "node_modules/.bin/truffle-flattener ../contracts/token/erc20/QNTU.sol > publish/QNTU.sol"
+    },
+    "dependencies": {
+        "async": "^2.6.0",
+        "fast-csv": "^2.4.1"
+    },
+    "devDependencies": {
+        "truffle-flattener": "^1.2.5"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/quantaplc/qntu.git"
+    },
+    "author": "HoangTung",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/quantaplc/qntu/issues"
+    },
+    "homepage": "https://github.com/quantaplc/qntu#readme"
+}
